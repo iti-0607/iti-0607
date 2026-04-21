@@ -54,9 +54,9 @@ I like working on ideas that involve:
 
 ## 📊 GitHub Zone
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=iti-0607\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+![streak](https://streak-stats.demolab.com?user=iti-0607\&theme=tokyonight\&hide_border=true)
 
 ---
 
